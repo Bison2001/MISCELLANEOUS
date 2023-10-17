@@ -3,5 +3,5 @@
 <li><a href="/nba.pdf">NBA win probability prediction via Alternating Renewal Reward Process</a></li>
 <li><a href="/Ecuador_Travel">Ecuador_Travel</a></li>
 <li><a href="https://bison2001.github.io/ali_travel/">Ali_Travel</a></li>
-<li><a href="/Ensennada2.pdf">Ensennada_Travel</a></li>
-<li><a href="/indonesia_travel.pdf">Indonesia_Travel</a></li>
+<li><a href="/MISCELLANEOUS/Ensennada2.pdf">Ensennada_Travel</a></li>
+<li><a href="/MISCELLANEOUS/indonesia_travel.pdf">Indonesia_Travel</a></li>
