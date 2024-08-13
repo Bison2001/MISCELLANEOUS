@@ -10,5 +10,7 @@
 <li><a href="https://hollow-tortoise-289.notion.site/Peru-Travel-ee37a91203734bd5a0cd35e2b27f9379?pvs=4">Peru</a></li>
 <li><a href="https://www.mafengwo.cn/i/24425045.html">Alaska(winter)</a></li>
 <li><a href="/MISCELLANEOUS/alaska_winter_travellog.pdf">Alaska(winter)PDF</a></li>
+<li><a href="https://hollow-tortoise-289.notion.site/Cambodia-a9793f5cc76744ed827306681183f611">Cambodia</a></li>
+
 
 
