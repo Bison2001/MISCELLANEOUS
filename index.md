@@ -13,6 +13,8 @@
 <li><a href="https://hollow-tortoise-289.notion.site/Los-Cabos-eb5b7cc5426d4082a743426aae48f9df">Los Cabos</a></li>
 <li><a href="https://hollow-tortoise-289.notion.site/Vancouver-Banff-Calgary-b7dcf014f4dc43999e5cef1ad7a7eb89">Banff</a></li>
 <li><a href="https://hollow-tortoise-289.notion.site/Cambodia-a9793f5cc76744ed827306681183f611">Cambodia</a></li>
+<li><a href="https://hollow-tortoise-289.notion.site/YellowStone-Grand-Teton-57571a2914344643857364ef193ea606">YellowStone</a></li>
+<li><a href="https://hollow-tortoise-289.notion.site/Morelia-CDMX-1324cd534ceb80fe9dacd75f795f073f">Morelia_CDMX</a></li>
 
 
 
